@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 ---
 
 ### Author
-[Your Name](https://github.com/your-username)
+[Victor Oyiga](https://github.com/victot0121)
 

@@ -53,7 +53,7 @@ The job data is fetched from a mock API (local JSON file or an online API like M
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/job-match-dashboard.git
+   git clone https://github.com/victot0121/job-match-dashboard
    cd job-match-dashboard
    ```
 2. Install dependencies:
